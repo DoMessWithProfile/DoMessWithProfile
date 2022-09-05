@@ -1,5 +1,9 @@
 ### Hello! I'm still constructing pages.
 
+- 🔭 I’m currently working on this README.md file
+- 🌱 I’m currently learning Games Development
+- 😄 Pronouns: he/him
+
 <!--
 **DoMessWithProfile/domesswithprofile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
