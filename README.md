@@ -6,6 +6,12 @@
 - 🌱 I’m currently learning Games Development
 - 😄 Pronouns: he/him
 
+## Links
+
+games: https://domess.itch.io/ 
+
+mods&maps: https://gamebanana.com/members/1701500
+
 <!--
 **DoMessWithProfile/domesswithprofile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
