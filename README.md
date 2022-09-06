@@ -1,6 +1,8 @@
-### Hello! I'm still constructing pages.
+<i>Hello! I'm still constructing repositories.</i>
 
-- 🔭 I’m currently working on this README.md file
+# Welcome to my Github!
+
+- 🔭 I’m currently working on this README.md file & my github.io page
 - 🌱 I’m currently learning Games Development
 - 😄 Pronouns: he/him
 
