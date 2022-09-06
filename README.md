@@ -1,18 +1,16 @@
-<i>Hello! I'm still constructing repositories.</i>
+# Welcome to my Github! 🙋‍♂️
 
-# Welcome to my Github!
-
-- 🔭 I’m currently working on this README.md file & my github.io page
+- 🔭 I’m currently working on my github.io page
 - 🌱 I’m currently learning Games Development
 - 😄 Pronouns: he/him
 
-## Links
+## Links 🔗
 
-games: https://domess.itch.io/ 
+🎮 games: https://domess.itch.io/ 
 
-mods&maps: https://gamebanana.com/members/1701500
+🎮 mods&maps: https://gamebanana.com/members/1701500
 
-Capitalism: [Board Game](https://michaellam.notion.site/Capitalism-5434375ccc92422694deacc07e3fb3fb).
+💰 Capitalism: [Board Game](https://michaellam.notion.site/Capitalism-5434375ccc92422694deacc07e3fb3fb).
 
 <!--
 **DoMessWithProfile/domesswithprofile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
